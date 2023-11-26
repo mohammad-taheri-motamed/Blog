@@ -7,3 +7,4 @@ tzdata==2023.3
 django-cors-headers==3.10.1
 dj-rest-auth==5.0.2
 django-allauth==0.58.2
+drf-yasg
